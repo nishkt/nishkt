@@ -10,7 +10,7 @@ My name is Nishant and I am interested in Software stuff, Data stuff, and ML/DL 
 * **Front-end**: HTML, CSS, React.JS
 * **Backend/Frameworks**: .NET, Spring, Django, Flask, Nginix
 * **DBs**: Oracle, MySQL, SQLite, MS SQL Server
-* **Cloud Providers: Azure, GCP, AWS
+* **Cloud Providers**: Azure, GCP, AWS
 * **Mobile**: Kotlin, Xamarin, Flutter
 * **AI/ML**: PyTorch, Tensorflow, Pandas, Seaborn, Numpy
 * **Software**: Figma, Blender, Postman, Rally, Confluence
