@@ -17,9 +17,9 @@ My name is Nishant and I am interested in Software stuff, Data stuff, and ML/DL 
 
 ### 📚 Publications
 
-* **AIML and sequence-to-sequence models to build artificial intelligence chatbots: insights from a comparative analysis**: https://link.springer.com/chapter/10.1007/978-3-030-18240-3_30
-* **Search and Rescue AR Visualization Environment (SAVE): Designing an AR Application for Use with Search and Rescue Personnel**: https://ieeexplore.ieee.org/abstract/document/9757548
-* **Employment law expert system**: https://ieeexplore.ieee.org/abstract/document/8601271
+* **AIML and sequence-to-sequence models to build artificial intelligence chatbots: insights from a comparative analysis**: [Publication Link](https://link.springer.com/chapter/10.1007/978-3-030-18240-3_30)
+* **Search and Rescue AR Visualization Environment (SAVE): Designing an AR Application for Use with Search and Rescue Personnel**: [Publication Link](https://ieeexplore.ieee.org/abstract/document/9757548)
+* **Employment law expert system**: [Publication Link](https://ieeexplore.ieee.org/abstract/document/8601271)
 
 <!--
 
