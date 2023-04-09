@@ -21,6 +21,11 @@ My name is Nishant and I am interested in Software stuff, Data stuff, and ML/DL 
 * **Search and Rescue AR Visualization Environment (SAVE): Designing an AR Application for Use with Search and Rescue Personnel**: [Publication Link](https://ieeexplore.ieee.org/abstract/document/9757548)
 * **Employment law expert system**: [Publication Link](https://ieeexplore.ieee.org/abstract/document/8601271)
 
+### 📫 How to reach me:
+
+* [LinkedIn] (https://www.linkedin.com/in/nishkt/)
+* nishant.teckchandani@gmail.com or nishkt@vt.edu
+
 <!--
 
 
